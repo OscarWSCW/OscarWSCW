@@ -1,8 +1,8 @@
 # About Me
 Hello my is Oscar, Im from NZ
-In my free time I like playihanging out with family.
+In my free time I like playing games and hanging out with family.
 
-#### My past project
+#### My past projects
 My past digital projects that i've created is the Pa project and a website I did in digital tech 
 
 #### Why I wanted to study digital tech
